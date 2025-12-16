@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mihajloslavulj.github.io/kafic-aroma/sitemap.xml
